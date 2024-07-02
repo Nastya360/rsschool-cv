@@ -1,1 +1,1 @@
- [rsschool-cv](https://Nastya360.github.io/rsschool-cv/cv)
+ [rsschool-cv](https://Nastya360.github.io/rsschool-cv/)
