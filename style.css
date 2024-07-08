@@ -96,6 +96,17 @@ footer {
 }
 .autor {
   padding: 20px;
+  display: flex;
+  align-items: center;
+  
+}
+
+.github{
+    width: 40px;
+    margin-right: 400px;
+}
+.logoRS{
+    width: 100px;
 }
 @media (max-width: 768px) {
   .section {
